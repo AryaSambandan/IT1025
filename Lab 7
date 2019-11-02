@@ -4,9 +4,19 @@ TCP and IP are a part of one of the four layers: application, transport, network
 
 File Compression
 
+File compression is a data compression method in which a file is reduced 
+to save disk space for easier and faster transmission over a network.
+It enables the creation of a version of one or more files with the same data at a smaller size than the original file.
+
 Object Oriented Programming (OOP)
 
+OOP is a is a type of computer programming in which programmers define the data type of a data structure, 
+and also the types of operations that can be applied to the data structure.
+
 Unified Modeling Language (UML)
+
+UML is a general purpose modeling language. The main aim of UML is to define a standard way to 
+visualize the way a system has been designed.UML is not a programming language, it is rather a visual language.
 
 Conclusion
 
