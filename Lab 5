@@ -9,27 +9,32 @@ It also allows users to collaborate on drawing, revising and sharing charts and 
 
 Introduction to Networking
 
-Networking is the process of creating and using networks. A network is a group of tow or more computers sytems linked together.
+Networking is the process of creating and using networks. 
+A network is a group of tow or more computers sytems linked together.
 
 
 Data Transmission
+Data transmission is the transfer of data over a point-to-point or point-to-multipoint communication channel. 
+Examples of channels are copper wires, optical fibers, wireless communication channels, and storage media 
 
 Networking Hardware
 
+Networking hardware, also known as computer networking devices, 
+are electronic devices which are required for communication and interaction between devices on a computer network. 
+
 Network Topologies
 
-Network Design
-
-NSA/CSS
+Network topology can be used to define or describe the arrangement of various types of telecommunication networks, 
+including command and control radio networks. There are 4 different types of Network Topologies; 
+Star Topologies, bus Topologies, ring Topologies, and Mesh Topologies.
 
 Cybersecurity and Encryption
 
-Information Systems Security
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks using codes, firewalls, etc.
+also known as Computer security. cybersecurity or information technology security is the protection of computer systems 
+from the theft of or damage to their hardware, software, or electronic data
 
-Cryptography
-
-Brute-Force
 
 Conclusion
 
-If you change on thing in the wrong way it can effect the whole system
+If you change on thing in the wrong way it can effect the whole system can have a system failure.
