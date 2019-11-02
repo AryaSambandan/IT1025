@@ -5,19 +5,50 @@ is implemented across the entire organization
 
 Hardware
 
+Hardware is the physical componets of a computer system,
+which is the circut board,ICS (internet connection sharing)and many others. 
+Without hardware your computer or any devices wouldnt work.
+
 Hard Drives and Memory
 
-ALU and the Control Unit
+A hard drive is the computer's memory storage. This is a permanent memory storage, for all computers, 
+that stores and retreives data whenever the computer needs it. 
+Computer memory is any physical device capable of storing information temporarily, 
+like RAM (random access memory), or permanently, like ROM (read-only memory).
 
-CUP, Input & Output
+ALU and the Control Unit
+ 
+ The ALU (arithmetic logic unit) is a digital circut used to preform arithmetic and logical operations.
+ The ALU is the fundamental building block of the central processing unit (CPU) of a computer. 
+ The control unit is found in the CPU. It is a component of the CPU that directs the operation of the processor.
+ The CU (control unit) tells the computer's memory, arithmetic, and logic unit and input and output devices
+ how to respond to instructions that have been sent to the processor.
+ 
+CPU, Input & Output
+
+The CPU ( control processing unit) is a piece of hardware that carries out out the intructions of a computer program.
+This is the part of the computer that preforms the basic arithmetical, logical,and input & output operations of 
+a computer system. Input and Output devices allow the computer system to interact with the outside world 
+by moving data into and out of the system.
 
 Logic Gates and Circuits
 
+Logic gates are the basic building blocks for any digital system. 
+Logic Gates are electronic circuit with one or more inputs but only one output. 
+It is like this because the relationship between the input and the output is based on a certain logic.
+
 IEEE
+
+the IEEE (Institute of Electrical and Electronics Engineers)was founded in 1884 and is the world's largest technical 
+professional organization that tries to advance technology for the benefit of humanity. 
 
 Data Representation
 
+Data Representation is the form data is stored, processed, and transmitted.
+Devices like smartphones, ipods, and computers store data in digital forms.
+
 Numeric Conversions
+
 
 Hexadecimal Color Representation
 
