@@ -1,0 +1,31 @@
+Executive Summary
+TCP (transmission control protocol) and IP (Internet Protocol) are part of one of the four layers: 
+Application ( HTTP, FTP, POP3, SMTP, SNMP), Transport (TCP, UDP), Networking (IP, ICMP), Database (Enthernet, ARP)
+
+Security Securing your Web Browser 
+
+There are many ways to secure your web browser like; keeping you browser updated, signing up for alerts, 
+being cautious while installing plug ins, making sure you have a AV installed, and installing security plug ins. 
+Keeping you browser updated makes sure all the old bugs are gone. If you sign up for alerts your computer will tell you 
+if there is something wrong or if something needs to be checked. The reason behind why you need to be cautious 
+while installing plug ins is because some plug ins may hve malware that will effect your computer.
+
+World Wide Web Consortium 
+
+The World Wide Web Consortium (W3C) is an international community where Member organizations, 
+a full-time staff, and the public work together to develop Web standards.
+
+HTML5 and CSS 
+
+HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. 
+HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices.
+
+Components of a URL 
+
+A URL is made from 5 components; Protocol, domain, path, hash, and query string. Protocol is the technology that will 
+be used to transfer the data, usually http or https. Domain is the the domain name. Path relates to the section 
+and page on the site. Hash relates to a section within the page. Query string contains data that is being passed to the page.
+
+
+Conclusion Include your conclusion here... 
+Technology has many complex layers that help tehnology change and upgrade
