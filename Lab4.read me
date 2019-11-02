@@ -1,0 +1,26 @@
+Executive Summary 
+
+No matter which operating system you use, your computer uses folders to organize all of the different files and applications it contains.
+
+Python IDLE 
+
+Python is general purpose and high level programming language. Many people use python to develop desktop applications,
+websites, web applications.Since Python is a high level programming language it allows you to focus on core 
+fuctionality of the application by taking care of common programming tasks.
+
+Graphics Raster vs. Vector Graphics 
+
+Graphics Raster are digital images created or captured as a set of samples of a given space. 
+Vector graphics are computer graphics images that are defined in terms of 2D points,
+which are connected by lines and curves to form polygons and other shapes
+
+Lossless vs. Lossy 
+
+Lossy compression is the method which eliminate the data which is not noticeable.
+Also n Lossy compression, A file does not change back to its original form.
+Lossless Compression does not eliminate the data which is not noticeable
+in Lossless Compression, A file can be restored in its original form.
+
+
+Conclusion Include your professional conclusion here...
+Each operating system has its own file system, which helps you find your folders and files.
